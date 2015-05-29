@@ -5,32 +5,6 @@
         <field name="NUM">125000</field>
       </block>
     </value>
-    <statement name="DO">
-      <block type="movement_forward" id="102">
-        <next>
-          <block type="movement_left" id="264">
-            <next>
-              <block type="movement_forward" id="303">
-                <next>
-                  <block type="movement_left" id="314">
-                    <next>
-                      <block type="movement_forward" id="324">
-                        <next>
-                          <block type="movement_left" id="335">
-                            <next>
-                              <block type="movement_forward" id="345"></block>
-                            </next>
-                          </block>
-                        </next>
-                      </block>
-                    </next>
-                  </block>
-                </next>
-              </block>
-            </next>
-          </block>
-        </next>
-      </block>
-    </statement>
   </block>
+  <block type="movement_forward" id="102" x="734" y="554"></block>
 </xml>
